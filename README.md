@@ -19,7 +19,7 @@
 
 > [!IMPORTANT]
 > 💰 **Crypto Price Checker Tool**
-> A simple command-line tool built with Python that fetches real-time cryptocurrency prices from **[CoinGecko](https://www.coingecko.com)**. It uses cloudscraper to bypass bot protection, BeautifulSoup for parsing HTML, and colorama for colored terminal output.
+> A simple command-line tool built with Python that fetches real-time cryptocurrency prices from **[CoinGecko](https://www.coingecko.com)**. It uses cloudscraper to bypass bot protection .
 
 ### 🔧 Features
 - Get the current price of any cryptocurrency listed on CoinGecko.
@@ -37,7 +37,7 @@
 - Scrapes the coin’s page from **[CoinGecko](https://www.coingecko.com)**.
 
 - Parses and prints the live price.
-- 
+
 ### Via `Git` ( Recommended ) ⚡️
 ```shell
 # via Git
@@ -47,9 +47,6 @@ cd Crypto
 
 python3 main.py
 ```
-
-
-
 
 ## 💬 Help & Support .
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
